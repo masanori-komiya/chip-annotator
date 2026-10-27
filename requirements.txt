@@ -1,0 +1,4 @@
+# Desktop/manual editor. Model/CUDA installation: setup_model.bat
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+PySide6-Essentials==6.12.0
